@@ -1,35 +1,26 @@
-# vue3extensiontemplate2
+## 開發
 
-This template should help get you started developing with Vue 3 in Vite.
+vue以外的擴充功能檔案皆放在./public
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## 安裝套件
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### 預覽畫面
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### 打包及測試
+
+1. 打包
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+2. 瀏覽器開啟開發人員模式
+3. 載入未封包項目，指定到專案的發布資料夾./dist
