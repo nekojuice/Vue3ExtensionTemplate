@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Vue 3 Browser Extension",
+    "name": "Vue 3 Browser Extension Template",
     "version": "1.0",
     "description": "A browser extension built with Vue 3",
     "action": {
